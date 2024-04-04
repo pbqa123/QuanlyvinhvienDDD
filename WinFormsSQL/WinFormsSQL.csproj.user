@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Author-Genres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Book management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Category Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Create Acc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forgot Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="History book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Library card.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Library.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BrrowBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reader Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Return Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Watch information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
